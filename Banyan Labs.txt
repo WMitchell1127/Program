@@ -1,0 +1,37 @@
+Banyan Labs
+
+Shandea Hardin - Supervisor 
+	Transistion Cord. - 520-221-1301
+New Devs Pre-Onboarding Checklist
+
+Payroll - 
+	-We recommend that you review and retain the TCA for your records and future reference. 
+If you have questions, contact us via 24/7 Live Chat (login.TriNet.com > Contact TriNet > Live Chat), by phone (800.638.0461) Monday through Friday 6 a.m.-midnight ET (3 a.m.-9 p.m. PT), or by email (employees@TriNet.com).
+
+ 
+Create Accounts
+LinkedIn - https://linkedin.com- Use personal email address
+GitHub - https://github.com/-  Use personal email address
+HackerRank- https://www.hackerrank.com/ - Use personal email address
+
+Downloads
+Visual Studio Code - https://code.visualstudio.com/download
+•	Bootstrap 4, Font awesome 4, Font Aw Extension 
+•	CodeTogether Extension
+•	Live Server
+•	Prettier
+•	Js Jsx Snippets
+•	MongoDB for VS Code
+Git - https://git-scm.com/downloads
+Github Desktop - https://desktop.github.com/ 
+Slack - https://slack.com/downloads/windows
+Node.js - https://nodejs.org/en/download/
+Chrome - https://www.google.com/chrome/ - If your computer does not have Chrome browser
+Figma - https://www.figma.com/downloads/ 
+ 
+App Invites From Casey Taylor 
+Trinet - invitation will be sent to personal email
+Slack - Invitation will be sent to Banyan email
+Atlassian (Jira/Confluence) - Invitation will be sent to Banyan email
+Toggl - Invitation will be sent to Banyan email 
+Global Calendar link - Will be sent to Personal email … Forward it to Banyan email when you      gain access to your Banyan email

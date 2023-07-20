@@ -1,0 +1,26 @@
+Shortcuts for VS Code
+
+Coping a line of Code 
+	- Copy line up/down
+	Mac — Shift + Option + Up/Down.
+	Windows — Shift + Alt + Up/Down.
+	Ubuntu — Ctrl + Shift + Alt + Up/Down.
+
+Snippit tool screenshot
+	shift+wndws+s
+
+VS - code for .NET
+	location: this computer, 
+		local disk(c)
+		User
+To run .NET VS code 
+	f5
+
+Adding Project to GitHub
+	view
+		Team Explorer
+		Home Icon
+			Home(drop menu)
+			Projects(drop menu)
+				New Repository		
+		Local Git Repositiory file name- C:/......./Program

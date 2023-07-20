@@ -1,0 +1,24 @@
+javascript projects
+1. palidrome
+
+function palindrome(str) {
+  // Good luck!
+  let palindrome = str;
+  let strRegex = /[0-9a-z]/gi;
+  let lowStr = str.toLowerCase()
+  let arr = lowStr.match(strRegex)
+let backArr = lowStr.match(strRegex).reverse('')
+console.log(backArr)
+for(let i=0;i<arr.length; i++){
+  if(arr[i] != backArr[i]){
+return false
+  }
+}
+return true
+
+}
+
+
+
+
+palindrome("eye");

@@ -1,0 +1,15 @@
+open up command prop
+	mkdir (whatever you want to name it here but no parenthese)
+	cd (name of folder(dir you named above).)/
+	code . (to open in VS-code)
+		in vs-code create a file called app.js
+			script an example code.
+			now run it in command promp
+				type node app.js(ent)
+
+**** can use jshint to check for errors using const
+**** F2 is shortcut to rename all words 
+
+*** Good practice video for nodejs is 
+		Build a Rest RESTful API using Node, Express and MongoDB - Mosh instructor
+			-Video rental application project
